@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-config-file>
+<lmms version="1.2.1">
+  <MidiAlsaRaw device="default"/>
+  <MidiJack device="lmms"/>
+  <Midialsaseq device="default"/>
+  <app configured="1" displaydbfs="0" nanhandler="1" openlastproject="0" disablebackup="0" language="en" nomsgaftersetup="0" nommpz="0"/>
+  <audioalsa device="null" channels="2"/>
+  <audiojack clientname="lmms" channels="2"/>
+  <audiooss device="/dev/dsp" channels="2"/>
+  <audiopa device="default" channels="2"/>
+  <audioportaudio backend="" device=""/>
+  <audiosdl device=""/>
+  <midioss device="/dev/midi"/>
+  <mixer hqaudio="0" framesperaudiobuffer="256" mididev="ALSA-Sequencer (Advanced Linux Sound Architecture)" audiodev="SDL (Simple DirectMedia Layer)"/>
+  <paths vstdir="/home/arc/lmms/plugins/vst/" defaultsf2="" laddir="/home/arc/lmms/plugins/ladspa/" gigdir="/home/arc/lmms/samples/gig/" stkdir="/usr/share/stk/rawwaves/" workingdir="/home/arc/lmms/" backgroundartwork="" artwork="data:/themes/default/" sf2dir="/home/arc/lmms/samples/soundfonts/"/>
+  <tooltips disabled="0"/>
+  <ui printnotelabels="0" vstembedmethod="xembed" syncvstplugins="1" animateafp="1" oneinstrumenttrackwindow="0" disableautoquit="1" vstalwaysontop="0" enableautosave="1" enablerunningautosave="0" smoothscroll="1" saveinterval="2" compacttrackbuttons="0" displaywaveform="0"/>
+  <recentfiles>
+    <file path="data:/projects/templates/default.mpt"/>
+    <file path="/home/arc/lmms/projects/tmpaaa.mmpz"/>
+    <file path="/usr/share/lmms/projects/demos/TobyDox-Psycho.mmpz"/>
+    <file path="/usr/share/lmms/projects/demos/Socceroos-Progress.mmpz"/>
+    <file path="/usr/share/lmms/projects/demos/Jousboxx-BuzzerBeater.mmpz"/>
+    <file path="/usr/share/lmms/projects/demos/Popsip-Electric Dancer.mmpz"/>
+    <file path="/usr/share/lmms/projects/demos/Oglsdl-PpTrip.mmpz"/>
+    <file path="/usr/share/lmms/projects/demos/CapDan/CapDan-ReggaeTry.mmpz"/>
+    <file path="/usr/share/lmms/projects/demos/CapDan/CapDan-ReggaetonTry.mmpz"/>
+    <file path="/usr/share/lmms/projects/demos/Skiessi/Skiessi-Onion.mmpz"/>
+    <file path="/usr/share/lmms/projects/demos/AngryLlama-NewFangled.mmpz"/>
+    <file path="/usr/share/lmms/projects/demos/Farbro-Tectonic.mmpz"/>
+    <file path="/usr/share/lmms/projects/demos/Root84-Initialize.mmpz"/>
+    <file path="/usr/share/lmms/projects/tutorials/editing_note_volumes.mmp"/>
+    <file path="/usr/share/lmms/projects/shorties/Root84-TrancyLoop.mmpz"/>
+    <file path="/usr/share/lmms/projects/shorties/Crunk(Demo).mmp"/>
+    <file path="/usr/share/lmms/projects/shorties/Surrender-Main.mmpz"/>
+    <file path="/usr/share/lmms/projects/shorties/DirtyLove.mmpz"/>
+    <file path="/usr/share/lmms/projects/demos/unfa-Spoken.mmpz"/>
+    <file path="/usr/share/lmms/projects/demos/Alf42red-Mauiwowi.mmpz"/>
+  </recentfiles>
+</lmms>
