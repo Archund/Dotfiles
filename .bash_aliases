@@ -16,6 +16,9 @@ alias grep='grep --color=auto'
 # List directory files
 alias files='ls -ap | grep -v /'
 
+# View git branches
+alias ggraph='git log --graph --abbrev-commit --decorate --all'
+
 
 # Imagine, you're in the shell, doing some serious stuff and you need to do some quick math. What do you do?
 # Well, you open menu, start typing 'calc' and so on. But, now you don't have to, with the following
